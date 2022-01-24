@@ -24,6 +24,8 @@
     text-decoration: none;
 }
 
+
+
 .foot{
     position: fixed;
     left: 0;
@@ -41,6 +43,7 @@
     }
 .top_reg{
     padding: 0;
+    color: tomato;
 }
 form{
     margin-left: 35%;
